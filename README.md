@@ -1,2 +1,2 @@
 # graph-draw
-Code from drawing graphs, written in octave
+Code for drawing graphs, written in octave
